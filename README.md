@@ -1,4 +1,4 @@
-# Data Analysis for ChatGPT Reviews
+# Regression Project - ChatGPT Reviews
 
 ## General Information
 We are given a dataset from [kaggle](https://www.kaggle.com/datasets/bhavikjikadara/chatgpt-user-feedback) containing daily-updated user reviews and ratings for ChatGPT app in the past two years. 
