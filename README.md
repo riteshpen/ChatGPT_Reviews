@@ -34,3 +34,9 @@ Create a new Pull Request.
 - Kaggle
 
 
+## Layout
+
+- Presentation Slides
+- Code 
+- Video/Screen Recording
+- Dataset from Kaggle
