@@ -11,7 +11,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import nltk
 import re
 import numpy as np
-nltk.download('wordnet')
+nltk.download('wordnet', download_dir='/usr/local/share/nltk_data')
 
 # Load data
 @st.cache
