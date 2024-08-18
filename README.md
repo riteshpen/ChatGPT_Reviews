@@ -9,7 +9,9 @@ Identify the best regression machine learning model to predict the correlation b
 
 To test this we will be using three variables: number of likes, positivity rating score, and true rating score.
 
-**[WEBSITE](https://chatgptreviews-5iapr3c5ldkezfesqpmtjk.streamlit.app/)** Please be patient
+**[WEBSITE](https://chatgptreviews-5iapr3c5ldkezfesqpmtjk.streamlit.app/)** 
+
+_Please be patient_
 
 ## Contributions
 
