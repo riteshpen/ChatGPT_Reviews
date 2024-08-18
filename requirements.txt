@@ -1,9 +1,0 @@
-### dependency
-streamlit
-pandas
-scikit-learn
-nltk
-numpy
-matplotlib
-seaborn
-
